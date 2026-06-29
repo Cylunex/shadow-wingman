@@ -3,3 +3,7 @@ Thumbs.db
 desktop.ini
 *.tmp
 推送到GitHub.bat
+
+# 私人练习日志，不入公开仓库（保留模板）
+progress/*
+!progress/_template.md
