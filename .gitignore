@@ -7,3 +7,14 @@ desktop.ini
 # 私人练习日志，不入公开仓库（保留模板）
 progress/*
 !progress/_template.md
+
+# Real deployment and operations material is maintained outside the repository.
+deploy/
+ops/
+operations/
+*.pem
+*.key
+*.p12
+*.pfx
+*.token
+*.secret
